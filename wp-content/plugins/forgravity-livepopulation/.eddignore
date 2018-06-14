@@ -1,0 +1,6 @@
+Dockerfile
+docker-*
+tests/
+composer.json
+.circleci
+codeception.dist.yml

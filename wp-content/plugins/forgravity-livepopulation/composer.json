@@ -1,0 +1,24 @@
+{
+	"name": "forgravity-livepopulation",
+	"description": "Live Population for Gravity Forms",
+	"keywords": ["wordpress", "gravity forms"],
+	"type": "wordpress-plugin",
+	"homepage": "https://forgravity.com/plugins/live-population/",
+	"license": "GPL-3.0+",
+	"authors": [
+		{
+			"name": "ForGravity",
+			"email": "support@gforgravity.com",
+			"homepage": "https://forgravity.com"
+		}
+	],
+	"support": {
+		"issues": "https://forgravity.com"
+	},
+	"require-dev": {
+		"lucatume/wp-browser": "~1.11"
+	},
+	"require": {
+		"codeception/codeception": "2.2"
+	}
+}
